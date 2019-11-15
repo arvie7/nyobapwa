@@ -1,0 +1,23 @@
+{
+"products" : 
+[{"id":1,"name":"Butterfly, tropical buckeye","category":"Teal"},
+{"id":2,"name":"Long-tailed spotted cat","category":"Pink"},
+{"id":3,"name":"Rat, white-faced tree","category":"Crimson"},
+{"id":4,"name":"Dingo","category":"Yellow"},
+{"id":5,"name":"Deer, red","category":"Maroon"},
+{"id":6,"name":"Grizzly bear","category":"Puce"},
+{"id":7,"name":"Eagle, african fish","category":"Maroon"},
+{"id":8,"name":"Mallard","category":"Yellow"},
+{"id":9,"name":"Vervet monkey","category":"Goldenrod"},
+{"id":10,"name":"Trumpeter, dark-winged","category":"Red"},
+{"id":11,"name":"Green-winged macaw","category":"Pink"},
+{"id":12,"name":"Otter, giant","category":"Mauv"},
+{"id":13,"name":"Pampa gray fox","category":"Purple"},
+{"id":14,"name":"Yellow-throated sandgrouse","category":"Purple"},
+{"id":15,"name":"Rat, desert kangaroo","category":"Turquoise"},
+{"id":16,"name":"Dolphin, striped","category":"Blue"},
+{"id":17,"name":"Hyrax","category":"Violet"},
+{"id":18,"name":"Civet, small-toothed palm","category":"Blue"},
+{"id":19,"name":"Asian lion","category":"Aquamarine"},
+{"id":20,"name":"Guanaco","category":"Green"}]
+}
